@@ -22,4 +22,11 @@ This webpage provides a brief introduction to Bhuvnesh Verma and his skills. It 
 - Links to Bhuvnesh's social media profiles for easy contact.
 - Information about Bhuvnesh's skills and qualifications.
 
+## Code
+
+![code](https://github.com/MasterBhuvnesh/practical/assets/99537126/b844a62d-e50f-46e4-9d65-e189ad6afccc)
+
+## Outcome
+
+![img](https://github.com/MasterBhuvnesh/practical/assets/99537126/cbd8d9e2-1d66-4742-b3ba-a1b5ebcc86f6)
 
